@@ -7,7 +7,6 @@
 - Nombre: [ByeteDarver]
 - Ubicación: [Ecuador]
 - Profesión: [Programador]
-- Contacto: [bytedarver@gmail.com]
 
 ## Habilidades
 
