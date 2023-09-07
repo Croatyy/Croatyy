@@ -11,7 +11,7 @@
 
 ## Habilidades
 
-- Lenguajes de programación: [JavaScript, Python, C++, HTML, CSS]
+- Lenguajes de programación: [JavaScript, C++, HTML, CSS]
 - Herramientas y tecnologías: [ Node.js, MongoDB, GitHub, Linux, Windows] 
 
 ## Contacto
