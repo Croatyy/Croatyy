@@ -18,6 +18,5 @@
 
 Puedes encontrarme en las siguientes redes sociales o enviarme un correo electrónico:
 
-- GitHub: [Croatyy]([enlace a tu perfil](https://github.com/Croatyy))
+- GitHub: [Croatyy](https://github.com/Croatyy)
 - Correo electrónico: [bytedarver@gmail.com]
-
