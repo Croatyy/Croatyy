@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hola, soy ByteDarver
 
-<!--
-**Croatyy/Croatyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado [Programación] y aquí encontrarás algunos de mis proyectos y contribuciones a la comunidad de código abierto. Siéntete libre de explorar mis repositorios y contactarme si tienes alguna pregunta o sugerencia.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Nombre: [ByeteDarver]
+- Ubicación: [Ecuador]
+- Profesión: [Programador]
+- Contacto: [bytedarver@gmail.com]
+
+## Habilidades
+
+- Lenguajes de programación: [JavaScript, Python, C++, HTML, CSS]
+- Herramientas y tecnologías: [ Node.js, MongoDB, GitHub, Linux, Windows] 
+
+## Contacto
+
+Puedes encontrarme en las siguientes redes sociales o enviarme un correo electrónico:
+
+- GitHub: [Croatyy]([enlace a tu perfil](https://github.com/Croatyy))
+- Correo electrónico: [bytedarver@gmail.com]
+
