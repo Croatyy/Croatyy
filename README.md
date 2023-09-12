@@ -4,9 +4,9 @@
 
 ## Sobre mí
 
-- Nombre: [ByeteDarver]
-- Ubicación: [Ecuador]
-- Profesión: [Programador]
+- Nombre: ByeteDarver
+- Ubicación: Ecuador
+- Profesión: Programador
 
 ## Habilidades
 
@@ -20,3 +20,8 @@ Puedes encontrarme en las siguientes redes sociales o enviarme un correo electr�
 - GitHub: [Croatyy](https://github.com/Croatyy)
 - Correo electrónico: [bytedarver@gmail.com]
 
+### Estadísticas de Github
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=croatyy&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de Croatyy" width="60%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=croatyy&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Lenguajes más usados por Croatyy">
